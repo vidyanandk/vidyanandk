@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyanandk&label=Profile%20views&color=0e75b6&style=flat" alt="vidyanandK" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js and solving problems**
+- 🌱 I’m currently learning **React, Node.js, C#, ASP DotNet and solving problems**
 
 - 📫 How to reach me **vidyanandkumar200502@gmail.com**
 
