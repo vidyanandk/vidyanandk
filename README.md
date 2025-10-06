@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, C#, ASP DotNet and solving problems**
 
-- 📫 How to reach me **vidyanandkumar200502@gmail.com**
+- 📫 How to reach me **vidyanand7014@gmail.com**
 
 
 - ⚡ Fun fact **Sometimes i become very funny with my friends**
